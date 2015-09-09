@@ -286,7 +286,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-				<dict>
+		<dict>
 			<key>name</key>
 			<string>CSS: @at-rule</string>
 			<key>scope</key>

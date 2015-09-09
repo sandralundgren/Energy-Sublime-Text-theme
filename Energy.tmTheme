@@ -46,7 +46,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#FCF5AE</string>
+				<string>#FAF27D</string>
 			</dict>
 		</dict>
 		<dict>
@@ -285,7 +285,7 @@
 				<key>foreground</key>
 				<string>#F8F8F0</string>
 			</dict>
-		</dict>
+		</dict>		
 		<dict>
 			<key>name</key>
 			<string>CSS: @at-rule</string>
@@ -318,7 +318,7 @@
 				<key>foreground</key>
 				<string>#d5b5ff</string>
 			</dict>
-		</dict>
+		</dict>		
 	</array>
 </dict>
 </plist>
