@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>Monokai</string>
+	<string>Energy</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -286,7 +286,7 @@
 				<string>#F8F8F0</string>
 			</dict>
 		</dict>
-				<dict>
+		<dict>
 			<key>name</key>
 			<string>CSS: @at-rule</string>
 			<key>scope</key>
@@ -320,11 +320,5 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.monokai</string>
 </dict>
 </plist>
