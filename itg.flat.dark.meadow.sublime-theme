@@ -69,12 +69,12 @@
   {
     "class": "tab_control",
     "attributes": ["hover"],
-    "layer0.tint": [255, 255, 255, 180]
+    "layer0.tint": [230, 126, 34, 255] // orig [255, 255, 255, 180] hover tab background , alt flat purple [102, 124, 240, 180]
   },
   {
     "class": "tab_label",
     "parents": [{"class": "tab_control", "attributes": ["hover"]}],
-    "fg": [91, 84, 81, 255],
+    "fg": [255, 255, 255, 200], //  orig [91, 84, 81, 255], font color of hover tab
     "font.bold" : false
   },
   {
