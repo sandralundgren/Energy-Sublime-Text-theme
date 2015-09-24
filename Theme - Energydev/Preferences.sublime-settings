@@ -1,0 +1,38 @@
+{
+  "bold_folder_labels": true,
+  "color_scheme": "Packages/Theme - Energydev/Energydev.tmTheme",
+  "draw_indent_guides": true,
+  "ensure_newline_at_eof_on_save": true,
+  "file_exclude_patterns":
+  [
+    ".DS_Store",
+    "*.lib",
+    "*.log"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".git",
+    ".bundle",
+    ".svn",
+    ".sass-cache"
+  ],
+  "font_size": 14,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "AdvancedNewFile",
+    "SublimeLinter",
+    "Vintage"
+  ],
+  "itg_small_tabs": true,
+  "line_padding_bottom": 1,
+  "line_padding_top": 1,
+  "open_files_in_new_window": false,
+  "save_on_focus_lost": true,
+  "show_full_path": true,
+  "tab_size": 2,
+  "tabs_small": true,
+  "theme": "energydev.meadow.sublime-theme",
+  "translate_tabs_to_spaces": true,
+  "word_wrap": false
+}
