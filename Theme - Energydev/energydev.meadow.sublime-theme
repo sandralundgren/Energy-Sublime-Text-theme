@@ -17,7 +17,7 @@
     "tab_overlap": 0,
     "tab_width": 160,
     "tab_min_width": 48,
-    "tab_height": 48,
+    "tab_height": 32,
     "mouse_wheel_switch": false
   },
   {
@@ -174,11 +174,6 @@
     "settings": ["!show_tab_close_buttons", "highlight_modified_tabs"],
     "parents": [{"class": "tab_control", "attributes": ["dirty"]}],
     "content_margin": [8, 8]
-  },
-  {
-    "class": "tabset_control",
-    "settings": ["itg_small_tabs"],
-    "tab_height": 32
   },
 
 //
@@ -444,7 +439,7 @@
   // Sidebar tree
   {
     "class": "sidebar_tree",
-    "row_padding": [8, 4],
+    "row_padding": [8, 2],
     "indent": 14,
     "indent_offset": 20,
     "indent_top_level": false,
@@ -453,31 +448,7 @@
     "layer0.opacity": 1.0,
     "dark_content": false
   },
-  {
-    "class": "sidebar_tree",
-    "settings": ["itg_sidebar_tree_xsmall"],
-    "row_padding": [8, 0]
-  },
-  {
-    "class": "sidebar_tree",
-    "settings": ["itg_sidebar_tree_small"],
-    "row_padding": [8, 2]
-  },
-  {
-    "class": "sidebar_tree",
-    "settings": ["itg_sidebar_tree_medium"],
-    "row_padding": [8, 3]
-  },
-  {
-    "class": "sidebar_tree",
-    "settings": ["itg_sidebar_tree_large"],
-    "row_padding": [8, 6]
-  },
-  {
-    "class": "sidebar_tree",
-    "settings": ["itg_sidebar_tree_xlarge"],
-    "row_padding": [8, 8]
-  },
+
   // Sidebar heading
   {
     "class": "sidebar_heading",
@@ -774,14 +745,8 @@
     "layer1.tint": [65, 69, 78],
     "layer1.inner_margin": [20, 40, 20, 20],
     "layer1.opacity": 1.0,
-    "content_margin": [0, 0, 0, 0] 
+    "content_margin": [20, 4, 20, 26] 
   },
-  {
-    "class": "overlay_control",
-    "settings": ["itg_square_tabs"],
-    "content_margin": [20, 4, 20, 26]
-  },
-
   {
     "class": "quick_panel",
     "row_padding": [5, 2],
