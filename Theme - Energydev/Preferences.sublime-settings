@@ -1,6 +1,6 @@
 {
   "bold_folder_labels": true,
-  "color_scheme": "Packages/Theme - Energydev/Energydev.tmTheme",
+  "color_scheme": "Packages/Theme - Energy/Energy.tmTheme",
   "draw_indent_guides": true,
   "ensure_newline_at_eof_on_save": true,
   "file_exclude_patterns":
@@ -31,7 +31,7 @@
   "show_full_path": true,
   "tab_size": 2,
   "tabs_small": true,
-  "theme": "energydev.meadow.sublime-theme",
+  "theme": "energy.sublime-theme",
   "translate_tabs_to_spaces": true,
   "word_wrap": false
 }
