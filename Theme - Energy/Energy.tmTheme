@@ -195,6 +195,19 @@
 				<string>#F92672</string>
 			</dict>
 		</dict>
+		<dict>		
+      <key>name</key>		
+      <string>Variable</string>		
+      <key>scope</key>		
+      <string>variable</string>		
+      <key>settings</key>		
+      <dict>		
+          <key>foreground</key>		
+          <string>#D5B5FF</string>		
+          <key>fontStyle</key>		
+          <string></string>		
+      </dict>		
+    </dict>
 		<dict>
 			<key>name</key>
 			<string>Tag attribute</string>
